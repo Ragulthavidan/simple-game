@@ -9,6 +9,6 @@ while choice<5:
     elif userchoice<luckynum:
         print("you entered smallest number")
     elif userchoice==luckynum:
-         print("congrats")
-         break
+        print("congrats")
+        break
     choice+=1
